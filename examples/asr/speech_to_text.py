@@ -106,7 +106,7 @@ def test(checkpoint_path):
     asr_model = EncDecCTCModel.load_from_checkpoint(checkpoint_path)
     test_files = [file.split('.')[0].split('/')[-1] for file in os.listdir('/home/visha/NeMo_test/examples/asr/test_files') if file.split('.')[-1] == 'wav']
     for file in test_files:
-        asr_out = asr_model.transcribe(f"/home/visha/NeMo_test/examples/asr/test_files/{file}.wav")
+        asr_out = asr_model.transcribe([f"/home/visha/NeMo_test/examples/asr/test_files/{file}.wav"])[0]
         truth = open(f"/home/visha/NeMo_test/examples/asr/test_files/{file}.txt").read()
 
         return eval(asr_out, truth)
