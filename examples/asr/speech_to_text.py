@@ -103,7 +103,7 @@ def eval(doc1, doc2):
   return scores
 
 def test(checkpoint_path):
-    asr_model = EncDecCTCModel.restore_from(checkpoint_path)
+    asr_model = EncDecCTCModel.load_from_checkpoint(checkpoint_path)
     test_files = [file.split('.')[0].split('/')[-1] for file in os.listdir('test_files') if file.split('.')[-1] == 'wav']
     for file in test_files:
         asr_out = asr_model.transcribe(f"test_files/{file}.wav")
