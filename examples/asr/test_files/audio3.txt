@@ -1,0 +1,249 @@
+dear students let us start the first lecture of this course this is basically a online
+course so therefore you need to be very clear about what you are going to learn and how
+you are going to be evaluated first of all this is a course on phase transformation in
+materials and i will be teaching all the lectures and it is a thirty lecture course that means
+there will be sixty twenty five minutes lecture and every week will be i suppose to i am not
+sure now about four to six lectures so that means about two to three hours of lectures
+so myself is professor biswas and i am a faculty member at the department of material science
+engineering of iit kanpur so thats the details about me my email address is available on
+the screen you can daily write to me whenever you have any serious problems and in addition
+to that to handle the course exams and also grading appear answer sheets i know this will
+be done online will be taken care by the teaching assistance
+so two of my students they will be handling that so they are actually the main ah person
+will be handling your questions to my write first one is kushbu kushbu tiwari is my pg
+and second one is reshma reshma is also my pg student so they will be handling all your
+the questions in the discussion forum obviously they are very difficult and i will also participate
+and also they will be handling your question paper and grading so my task will be to deliver
+all the lectures and then this will be uploaded in to nptel website so that you can observe
+and read or or listen online whatever is whatever way you can think about it
+now a days also there is another provision all my lectures whatever i am speaking will
+be again taken down or written by some experts so we are in the process of finding out those
+experts on my earlier course on phase transformation materials similarly we will do it for you
+also so that you dont need to listen you can actually read all this lectures notes so before
+that happens we are going to only listen this lectures available on the nptel forum and
+also you can ask questions in the discussion forum and so thats about it and there email
+address is are given and i have carefully removed the phone numbers because this is
+where things become very difficult to handle so if you have any questions you can ask them
+ask me also or you can put it on the discussion forum ok you know like any things in life
+every course has an objective and this objective has to be very clear before you start the
+course
+so present course actually will deal with basics of transformations in materials and
+as i said in my introduction video already you have seen probably that phase transformation
+is everywhere present in the normal whether you are talking about materials ceramics polymers
+or you are talking about real life phase transformation is present that how do we deal with phase
+transformation that is what you will be taught because thats what is important in your endower
+to learn phase transformation so using these three things one is your thermodynamics
+then kinetics and some basic aspect of material sands like crystal structures and interfaces
+we are going to study various solid to solid and liquid to solid phase transformation as
+you know this is our subject and covering that in thirty lectures is not an easy task
+so obviously we must be selected we cannot teach you everything and to learn everything
+you need to have some basic idea ah what i put it as course pre requisites ok and this
+pre requisites are should have preferably should have some basic knowledge on basic
+material science that most of the students in methodology or material science normally
+have thermodynamics especially with thermodynamics functions and their relationships and then
+some idea about phase diagrams and diffusion ok
+so ah i have already ah checked on different courses in nptel but by mean by different
+person is that there are some courses which are videos some courses which are web some
+courses which are massive open online so basic material science is already being taught by
+some faculty members thermodynamics is already being available and phase diagram i myself
+was develop a course nil just one year back diffusion is also partly taught so therefore
+you can actually ah clear your doubts while reading these lecture ok ah this is the full
+ah rather all the description of the all the lectures ok i dont know whether everything
+is coming in this scheme or not but any way most important thing is that we are going
+to talk about some very ah at the beginning where we going to talk give you some idea
+about free energy because that is the thermodynamic part of the phase diagram so we will show
+you the calculation of delta g of various transformations ok then we will talk about
+quad derivative of interfaces interfaces means liquid solids gren gren interface interface
+inter phase interfaces this are all parts of thermodynamics
+then you have to go in to kinetics thats the nucleation because nucleation is what the
+starting point of phase transformations so therefore theorem nucleation homogeneous heterogeneous
+nucleation and nucleation on the surfaces grains and even clan corners gen edges every
+where it will be dealt with as you know nucleation itself is the subject so there that we must
+be very ah you know you have to very careful about what you are going to talk about its
+i wont be able to tell you every details of the nucleation but whatever element we will
+discuss then we are going to start the first of the phase transformation that is on solidification
+as you see here solidification is a liquid to solid phase transformations then we will
+talk about growth during different aspects like thermal activated growth interface controlled
+growth diffusion controlled growth thats why you need to know as well as coupled growth
+and you take to array you take the transformation then we will talk about little bit about transformation
+kinetics in terms of different models johnson mehl and avrami models and some amount of
+gas thermal phase transformations then we will simply go on to different solid phase
+transformations like precipitation recrystallisation martensitics spinodal decompositions and we
+talk about isothermal and continuous transformations thats itself will be sufficient enough to
+call off thirty lectures ok
+so ah this is important that you know what we are going to be taught at the beginning
+so that you can prepare yourself so we are going to ah follow exactly the same way things
+are given on the right side i have also listed down number of lectures will be spent on each
+topic now comes in very important aspects because in a massive open online course you
+will be exposed to video lectures or the online lectures you must have some amount of you
+know text book knowledge so therefore two important text books which are carried from
+our library ah is this first one which is which is here is written on that is phase
+transformation in metals and alloys classic text book by d a porter and k e easterling
+and the recent edition also has come with a new author are all the problems are solved
+mr ah doctor m y sherif this is available in india not very expensive book you can read
+that and the other book is written by two of my past colleagues although i have never
+met them but though are iit kanpur this book is phase transformations in materials and
+by professor a k jena and professor m c chaturvedi both were at iit kanpur
+so ah when this books written there there were ah jena was in kanpur ok so this two
+books will be a basic text book for the course and anyone any of these books will be good
+for you you can by this books or you can actually copy from different libraries in the in the
+different parts of the book you can copy from different libraries or if you if you want
+you actually even ah you know get by that on different online stores correct so thats
+about the basic part of the course i think before i could move on to the next portion
+of my ah lecture why the phase transformation is delivered let me tell you you will be given
+ah assignments on every week and i think assignments are normally uploaded on thursday and because
+monday wednesday monday to wednesday will be exposed to the lectures and after that
+you will be i will be ah my t s will be uploading the assignments and you will be given about
+one weeks time to complete the assignments because assignments will be online so the
+questions will be ah multiple choice type or may be fill fill in the blanks type as
+assignment will have a weightage of fifty percent weightage and at the end of this semester
+you will be taking an end some exam and we are planning to have it online so far if i
+dont change my decisions or something else is happens otherwise it will be online and
+that will be having a fifty percent weightage
+although ah i am not keeping any pass marks for this course but you can interdentally
+consider if you are getting less than about say thirty percent of the marks then you will
+not be able to pass this course and those who will be successfully completing this course
+by taking exams and getting good marks will be given certification from the nptel as you
+know so that way i expect that you will be very serious learner and you will be also
+able to solve this problems if incase you have difficulties you can always discuss you
+can always use the discussion forums or you can write emails you can always bring it to
+the ah instructor all the t s so that we can make it clear to you thats very important
+because unless and until you know the things very well you will not be able to answer the
+questions now ah in the next few slides i am going to talk about what are the relevance
+of phase transformation materials development then why do you study in any course i know
+that many of you do not exposed by the instructor in the same way you must have an idea why
+you are studying this course what is the need well phase transformation is as i said is
+represented environment ok
+this slide i have taken from the literature you know thats what i am going to answer to
+you why study phase transformation material science ok you know what we are actually we
+look material for the application in in any case finally we have to think our application
+unless and until this material is applied engineering point of view we dont find any
+reason to study scientific point of view one can study so application means we must know
+that properties all kinds of properties so there is a physical mechanical electronic
+electrical magnetic depending on the applications so property or properties of a material is
+are estimated very very rigorously to find an potential applications this is true for
+even a new materials when its developed so now question is this properties as i said
+mechanical chemical electrical magnetic thermal you can even list on many more properties
+of the material depends on structure and thats why actually real problem comes structure
+has land scape you can simply say atomic structure atomic structure is the smallest structure
+you can think about it atom and nucleus infact that is what dictates most of the properties
+are to material but that is not all that is what in to this is what you must know very
+clearly thats not all
+so structure means it can be atomic structure molecular structure grain structure phase
+trans distribution and defects ok so we have basically i have listed down from the bottom
+up the atom is smallest theses and then we have grains and other things so you must have
+i am stressing again you must have an good idea about this structures to correlate with
+the properties because it is important that the properties are primarily dictated by the
+structure so if i know the structure i can dictate the properties so you got the correlation
+right ah very logically speaking we made materials rather we use processing techniques to make
+materials and this processing techniques allow you to control structure processing technique
+means what you can start with the liquid and solidify that is what is solidification you
+can start with the metal piece deform by rolling forging exclusion whatever different means
+so you actually process or you can actually deposit thin film you can actually you surface
+treatment techniques many things we do in the real ah now processing of materials they
+have a direct connection with this structure
+a structure has a direct link with the properties so as you see here these actually are variables
+for the processing temperature pressure or stress strain or volume and chemical composition
+for the alloys you can change chemical composition by making different alloys so these are my
+variables in processing and by applying these variables or combination of variables i generate
+or i make materials and manufacture materials and this processing variables controls the
+structure and structure controls the properties so therefore these three are linked very clearly
+they are linked they are not separate or they are not independent things they are connected
+to each other these are the of these three important pillars of material science processing
+structure and property but finally where to we look for finally we look for what is known
+as performance if you are studying in a course syllabus in a course you are finally evaluated
+on performance similarly materials are evaluated in terms of performance if i put a tire in
+your car that means the major performance is the tire should be able to drive the take
+the car from one place to another without any problems but you know tires should vary
+from a some ah are twin tire in the in the foreign countries in the the eyes tire which
+will travel on are different
+so that means performance indeed are actually connected to all these three things processing
+structure and the properties and that is what is important this chart which is very famous
+in material science you will find in many books is known as the material tetrahedron
+because they are actually looks like a tetrahedron so finally where does the phase transformation
+comes it is in the structure we modify the structure we modify the atomic structure we
+modify grain structure we modify the various by phase transformation so therefore phase
+transformation are directly linked with processing and also indirectly connected with the properties
+and thats why it is a very important course in the material science engineering you must
+understand that without knowing the or phase transformations you cannot control material
+properties ok
+so ah phase transformation or phase equilibria or thermodynamics is the basis for understanding
+a material response to change in temperature pressure composition i must accept this is
+slide i have taken from web this is not mine thus the critical link between processing
+and microstructure requires a knowledge of the relevant thermodynamics principles and
+they are the basis for phase transformations so you understand now why we are actually
+studying the phase transformations ok now question is this can i relate it to real applications
+i have taken four applications again i taken from the internet sites first one is in air
+plane ok air plane is the very important ah mode of transport from one part of the world
+to other part and you know the material which is used in the air plane is an aluminum copper
+alloy if you dont know you can actually check on the books this is the classical alloy aluminum
+four point five to four point seven percent copper known as dual lumen in the in the trend
+name and this is a very stable alloy from forty five degree celsius to minus sixty five
+degree celsius or even minus eighty degree celsius i dont know how many of you read news
+that there is a research laboratory in the southern hampshire that is in hm antarctica
+and sometimes if somebodies yield in the research laboratories in winter time they are actually
+taken from that place by plane to the the different country especially in southern america
+and such parts but it will be extremely cold minus sixty to minus eighty degree celsius
+temperature so a plane flying there the material has to be stand such a low temperature
+so this wonderful material which is prepared long back is used for the plane body and important
+phase transformation which is happening here is a precipitation of certain phase in aluminum
+alloys and this precipitates provide the strength from high to low temperature if you travel
+carefully on the planes you will find especially in the wings deviated join and this deviated
+joins are very strong and low temperatures because of the precipitation so we are going
+to discuss about that ah next one which is very important on the right side is air turbine
+basically it can be used in the plane the high speed plane or in when in power generators
+and they contained nickel based super alloys this wonderful material this is nickel aluminum
+alloy with consisting of many other elements which i will not discuss in detail now but
+again the real high temperature properties because this this is turbine so thereforth
+this has to be instant high temperature high temperature properties equi based properties
+of this material is basically because of precipitation of n i three a l type l one to precipitates
+what we known as in a nickel matrix fcc matrix and this unique precipitates actually provide
+the strength ok the thats thats that means precipitation is very important aspect to
+understand so thats what is will be part of silvers
+then on this side left side i know may be your right this is the rails which is used
+to as a phi splay on the railway tracks this actually steels basically the steel of perlite
+what you known as if you dont have any idea perlites perlite is nothing but a utech transform
+product of gamma solution of carbon in iron and so therefore you must you must know how
+this transformation happens whether we can control it because the properties of the rail
+depends on that and remember rail is is ah what is allow you to allowing us to move trains
+so therefore they are they are subjected to stress temperature harsh environment and many
+other things so they must have combinations of properties so that they can start the purpose
+and these is basically done by controlling the phase transformations on the right side
+this is the end the last example is basically the titanium based align engines ok remember
+this engines are not used in car they will be used in planes or may be in some other
+strategic applications like ah turb hm like the submarines and so
+so these engines actually has many plus like titanium valves titanium mmcs springs titanium
+mnc cramsups many others things springs and there are titanium aluminites you know titanium
+out of these all thirteen m alloys the most important alloy which is extensively used
+in titanium sixth aluminum four vanadium and it it we can control the micro structure of
+these by many ways creating alpha titanium alpha plus beta titanium beta of titanium
+alloys so ah the properties will vary depending on whether its alpha alpha plus beta alpha
+or beta remember alpha is hexagonal prospect structure beta is bcc structure so titanium
+actually ah room temperature below what to eight hundred eighty two degree celsius temperature
+is basically alpha above that it is a this i mean bcc structure so one can actually play
+around in the temperature zone by again controlling the prosaic parameters to create different
+kinds of structures to get different properties
+so all these applications dont think that they are similar alpha alloys or beta alloys
+alpha plus beta alloys they can be combination of many of these then the actual real problem
+is how do i control this micro structures by controlling the processing parameters so
+remember these four examples are not exhausted one can find many many examples in the real
+life as i told you in my first introduction lectures the basic example you always find
+is in the country india when hot summer days you want to drink cold water so you can always
+put the cold water inside the fridge and get it cooled but it is real advantage is that
+if i take a glass of water and add a ice cube taken from the deep freezer immediately the
+ice cube will start melting it down or getting dissolved in the water both are actually h
+two o one is solid h two o and the other is liquid h two o
+so therefore by melting it down the heat is getting transferred to the liquid and then
+the water gets cool down you will enjoy the drinks so this is the example which is present
+which you are actually doing it but what is important you for you to understand how these
+transformation happened how these solid become liquid liquid become solid whether is very
+simple or no remember what is from the most complex systems in the world and no unlike
+metal like more complex so ah let me just stop here before i go to the next part of
+the lecture or the next class so you understand in a nutshell that phase transformation is
+basically very important from the perspective of material science and technology and many
+of these products which you are actually using these their properties are controlled by controlling
+phase transformations we can do that by using different processing parameters temperature
+stress strain compositions and by doing that we alter them micro structure the atomic structure
+and by doing that you will create a different properties so that is the relevance of phase
+transformation course and which will be exposed to in the next subsequent lectures
+

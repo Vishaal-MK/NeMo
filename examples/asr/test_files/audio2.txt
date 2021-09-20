@@ -1,0 +1,95 @@
+hello welcome to noise management and its control today is the first day of this course
+this is a twelve week course ah total number of lecture hours will be around thirty hours
+of lecture material each week we will have six lectures starting from monday to saturday
+and at the end of this each week you will be expected to complete an assignment which
+will test you on the concepts which we would cover on a weekly basis and at the end of
+the course you would be expected to take an exam and if you do good in that exam then
+you will be eligible for a certificate in the course
+this is a highly application oriented course and in this course we will be covering a gamut
+of things particularly from ah the standpoint of view or from the standpoint of applications
+so if you are working in a car industry or you are interested in noise vibrations and
+harshness related analysis or you are working in developing systems you know air conditioning
+h back systems where lot of air flows through the through large buildings and you are not
+only interested in cooling the building but also ensuring that when air is passing through
+these h ver[tex]- noise is ah controlled or if you are interested in noise cancellation
+then perhaps this would be a course which you will find to be useful
+ah what i plan to do today is give you some details about this course and the actual course
+material and the lecture material will actually start from tomorrow so today we will just
+get an over view of the course and that's what we plan to do so specifically this week
+we will be doing a lot of concepts what is decibel what are different units of sound
+what are different terminology is associated with sound so those are some of the important
+things which you will learn ah at least during this week
+starting next week we will start addressing some of the important concepts in context
+of sound because understanding of these concepts is important if you want to be good in acoustics
+and especially in noise control so some of the important concepts we will address will
+be what is a linear system ah another important concept would ah what is a transfer function
+then we will do a quick review of complex algebra both in a plus b ii a format and also
+eulerian format where you express complex numbers as ah a times exponent ah i times
+theta so that is what we plan to do ah in the next week some of the important concepts
+then in the third week we what we plan to do is we will start developing some very important
+equations which govern sound and its propagation so essentially we will learn about the mechanics
+of sound waves ah a lot of times if the sound waves are propagating in one dimensional are
+one direction in nature that is they are propagating only in a particular direction then they are
+governed by one dimensional sound propagation equation
+so we will develop that equation and we will try to solve that equation in that week and
+then we will continue that discussion on the fourth week as well but in reality it's not
+too many of times that sounds just travels in a particular direction rather sound travels
+in all directions so if i have a source of sound it travels typically ah radially outwards
+so in the fifth week and part of the sixth we will cover the mechanics of spherically
+propagating sound waves so that ah we will give us some good amount of grounding in the
+science of acoustics and then we will start talking about noise so six week onwards we
+will learn how is noise measured ah what kind of instruments do we use what are the important
+considerations we have to worry about while we are doing noise measurement then in the
+seventh week we will start discussing what kind of different sources are there in terms
+of noise so we may have a point source we may have
+a line source we have may have a planar source of noise we may have an ah you know three
+dimensional or a spherical noise source so different types of noise sources how do i
+how do we identify them and what are some special properties of some of these resources
+and this is an important area of understanding at least in context of this course so we will
+extend this discussion over a period of two weeks that is up to eighth week and then in
+the ninth week onwards we will start learning how do we reduce noise in a structured quantifiable
+way so there are international standards ah which
+are used to reduce which are used in context of noise reduction and noise measurement so
+we learn about different acoustic criteria ah when we are trying to manage noise and
+then we will start applying some of these concepts for different applications for instance
+suppose you are sitting in a room and you want to ensure that the noise or the listening
+in that room is of good qualities so suppose it's a very large room may be an
+auditorium and if it's a poorly designed auditorium then you can have a lot of echoes which in
+engineering terms are known as reverberations so if those reverberations are there then
+you tend to don't get a clear cognition or perception of sound and how do you solve that
+problem using simple tools simple methods so that is something we will learn
+so we will talk about room acoustics then we will also learn the mathematics and the
+practical aspects of silencers so that is another tool which is used to reduce sound
+we use this silencers ah in lot of automobiles but not only in automobiles but in motorcycles
+tractors and even in other places for instance in gen sets where we use engines to generate
+electricity we reduce if it want to reduce the noise coming out of it we use silencers
+so how do silencers work those another thing we will learn and then another thing we will
+learn in the second last week of this course will be how do we isolate sound so sound can
+get gets propagated in several ways one is that suppose i am speaking some directly reaches
+and it propagates in all directions in other cases what happens is that when someone
+is speaking that sound goes and hits a particular structure maybe it's a sheet metal and then
+that sheet metal starts vibrating so and on the other side of the sheet metal if there
+is a person listening then he will hear the noise because of those vibrations so it is
+important in such cases that we are able to reduce the vibration of the structure so if
+we are able to reduce vibrations in the structure then it will help us to reduce the noise which
+is propagated due to those vibrations that kind of a noise is known as vibro acoustic
+noise so how to be reduce vibrations and how do
+we isolate vibrations and then we will do several case studies ah where we will look
+at some of the practical examples of noise and see how those pro in those practical applications
+reduce we were able to reduce noise to acceptable levels so that is the overall scheme of this
+course and all of you are welcome there are no specific prerequisites for this course
+but i think it will be useful ah that if you particularly have a degree either in physics
+or in any area of engineering doesn't matter it can be mechanical or electrical or civil
+then it will be a little bit easier for you at the in terms of understanding whatever
+we are talking about in part this particular course
+so i hope that gives you an overview of this course and i look forward to having you in
+this course over a period of next twelve weeks ah couple of other important things there
+are three or four ah tutors or teaching assistants assigned to this course so if you have questions
+you are welcome to approach these tas and ask your questions please do not hesitate
+to ask those questions at all if they are unable to address some of your questions for
+whatever reasons then you are also welcome to approach me all the contact details are
+provided on the website about this course so you are welcome to ah answer you know approach
+us in ah this particular regard so i hope this gives you an overview and i look forward
+to seeing you starting tomorrow ah and i hope you have a pleasant and ah positive learning
+experience ah over the period this course thank you
+

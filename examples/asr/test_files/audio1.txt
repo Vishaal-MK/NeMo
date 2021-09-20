@@ -1,0 +1,95 @@
+Welcome to this course on engineering mechanics – statics and dynamics.
+As we talked about in the introductory video, static and dynamical systems are quite ubiquitous
+all around us.
+In this course, we are going to learn the applications of the laws of mechanics, the
+laws of motion as we were introduced to, to studying moving and stationary systems.
+Let us first talk of the prerequisites for this course.
+We do expect a basic understanding of high school physics, which is starting with Newtonian
+laws of motion – the three laws of motion that we were all introduced to in high school
+and some elementary calculus – understanding the idea of a derivative, understanding the
+idea of a higher order derivative, a first derivative, second derivative in time, because
+Newtonian laws of mechanics are intricately linked to developments that happened in calculus
+around the same time.
+We are going to start discussing static systems first, stationary systems.
+We are going to understand the idea of a force, a moment or a couple.
+And we are going to look at both the effect of internal forces and external forces on
+static systems.
+The generation of internal forces and internal force distributions in static systems, as
+well as understanding friction – friction like I said in the introductory video is a
+very interesting force; we are going to look at one or two different models for friction
+and see what that tells us in terms of the ability to understand a real world system.
+So, the course title as it goes is Engineering Mechanics.
+Now, engineering systems are always real world systems.
+They are systems that you and I use on a daily basis.
+The laws of mechanics on the other hand are somewhat more theoretical.
+And one of the primary objectives of this course is to show you that, the theoretical
+laws of mechanics are very much applicable to understanding and analyzing the real world
+engineering systems as well as natural systems.
+And in order to apply the laws of mechanics to real world engineering systems, one would
+have to make a certain number of idealizations, remove certain details in the natural system
+or the engineering system in order to apply the laws of mechanics in a simplistic fashion
+in order to apply the laws of mechanics and generate results that one could apply, relate
+back to the engineering system.
+Let us take a very common ubiquitous example of a static system, a natural system as a
+matter of fact.
+Let us take a large tree – a fairly old tree.
+It is basically a static structure; there is a trunk; there are several branches that
+we see above ground.
+And there is a root structure underneath.
+Now, the result of gravitational pull acting on all of these objects causes internal forces
+inside the trunk and inside the branches.
+Those internal forces are responsible for the fact that the tree itself is able to bear
+a certain external load; let us say an animal walking on the tree.
+Now, in order for me to apply the laws of mechanics to a tree, if I ask the question
+– do I have to consider the very scaly nature of the bark covering the trunk?
+Do I need to include the details of the number of scales covering the trunk or can I just
+treat this like a vertical rod, like a vertical pillar?
+The answer as you may relate to is it may be sufficient to treat a trunk as a vertical
+pillar in order to gain an understanding of the force inside that pillar.
+This is an example of a situation, where we threw out certain details that were not relevant
+to our analysis.
+Our analysis is focused on understanding the kinds of forces that are generated inside
+the tree trunk.
+And in order for us to understand the forces generated inside the tree trunk, I do not
+need to consider the structure of the bark covering the trunk.
+This is one example of where we threw out the details and retained the essential components
+of our natural system.
+So, after you throw out the unessential details, what remains is what we will call a model
+of the real system.
+And, we will apply our laws of mechanics to the model system.
+And in many instances, the application of the laws of mechanics to the model system
+involves a certain analysis procedure.
+We will learn that in detail in this class.
+We will also touch upon intelligent ways of discarding unnecessary details in the real
+system that we can use to generate these model systems.
+So, in fact, a human being is more and more necessary in the second part, which is, taking
+a real system and generating an equivalent model system that retains all the necessary
+details.
+That requires a certain level of intelligence.
+Analyzing the model system through the application of the laws of mechanics, in most instances,
+can be computerized.
+So, we want to understand what can be computerized and what really cannot be computerized as
+of now in a generalized sense.
+And once we realize our value in this chain, we would like to emphasize the learning aspects
+as well along those same paths; one – understanding model systems and analyzing model systems;
+and two – generating these model systems from real engineering systems.
+So, that is going to be the emphasis of this course on Engineering Mechanics.
+Now, the course itself is going to be structured as primarily a set of solved example problems.
+The reason for this is analysis as a tool or the application of the laws of mechanics
+can best be understood by looking at model example problems and understanding the outcomes
+of the application of the laws of mechanics to those model example problems.
+So, we will concentrate week by week on solved example problems.
+So, we will solve examples that would illustrate a concept.
+And towards the end of that solved example problem, we would learn the concept itself.
+So, we would always precede a concept with an example that you can relate to.
+So, through the course of the next eight weeks, we expect to solve between 30 to 40 example
+problems that would illustrate 30 to 40 different concepts underlying the laws of mechanics.
+So, welcome to this course and we hope you all come along for the ride.
+The example problems solved in this course will span the breadth of static and dynamical
+systems in different contexts.
+The assignments would also span the same set of static and dynamical systems.
+So, if you understand the solved example problem, you should be able to make a very good headway
+in solving the assignment problems that are given week after week.
+So, come onboard and let us ride together in this journey through Engineering Mechanics.
+Thank you and welcome.
+

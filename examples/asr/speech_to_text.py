@@ -100,18 +100,21 @@ def eval(doc1, doc2):
 #   print(data)
 #   print('----------------------------------------')
 
-  return scores
+  return scores['Total Error Rate']
 
 def test(checkpoint_path):
+    scores = []
     asr_model = EncDecCTCModel.load_from_checkpoint(checkpoint_path)
     test_files = [file.split('.')[0].split('/')[-1] for file in os.listdir('/home/visha/NeMo_test/examples/asr/test_files') if file.split('.')[-1] == 'wav']
     for file in test_files:
         asr_out = asr_model.transcribe([f"/home/visha/NeMo_test/examples/asr/test_files/{file}.wav"])[0]
         truth = open(f"/home/visha/NeMo_test/examples/asr/test_files/{file}.txt").read()
 
-        return eval(asr_out, truth)
-        
-def update_sheet(score, checkpoint_path, name):
+        scores.append(eval(asr_out, truth))
+
+    return scores
+
+def update_sheet(scores, checkpoint_path, name):
     gc = gspread.service_account(filename='/home/visha/NeMo_test/examples/asr/desicrew-v1-088082cf46f3.json')
     sh = gc.open_by_url("https://docs.google.com/spreadsheets/d/1-OUI0RkDLE0OfOVS0a1PqBTNfGP0fjTMHkJWMUnoj9U/edit#gid=0")
     sheet = sh.worksheet('Sheet2')
@@ -122,7 +125,10 @@ def update_sheet(score, checkpoint_path, name):
 
     sheet.update_cell(index+2, 1, str(name))
     sheet.update_cell(index+2, 2, str(checkpoint_path))
-    sheet.update_cell(index+2, 3, score['Total Error Rate'])
+    sheet.update_cell(index+2, 3, scores[0])
+    sheet.update_cell(index+2, 3, scores[1])
+    sheet.update_cell(index+2, 3, scores[2])
+    sheet.update_cell(index+2, 3, scores[3])
     print('Sheet updated!')
 
 
