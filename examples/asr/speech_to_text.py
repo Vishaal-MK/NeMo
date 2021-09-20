@@ -120,8 +120,8 @@ def update_sheet(score, checkpoint_path, name):
     index = len(data)
 
 
-    sheet.update_cell(index+2, 1, name)
-    sheet.update_cell(index+2, 2, checkpoint_path)
+    sheet.update_cell(index+2, 1, str(name))
+    sheet.update_cell(index+2, 2, str(checkpoint_path))
     sheet.update_cell(index+2, 3, score['Total Error Rate'])
     print('Sheet updated!')
 
