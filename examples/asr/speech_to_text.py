@@ -150,7 +150,7 @@ def main(cfg):
         if asr_model.prepare_test(test_trainer):
             test_trainer.test(asr_model)
     
-    checkpoints = os.listdir(str(log_directory) + '/checkpoints')
+    checkpoints = [checkpoint for checkpoint in os.listdir(str(log_directory) + '/checkpoints') if checkpoint.split('.')[-1] == "ckpt"]
 
     for checkpoint_path in checkpoints:
         update_sheet(test(str(log_directory) + '/checkpoints/' + checkpoint_path), checkpoint_path, log_directory)
