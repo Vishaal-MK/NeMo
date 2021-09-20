@@ -153,7 +153,7 @@ def main(cfg):
     checkpoints = os.listdir(str(log_directory) + '/checkpoints')
 
     for checkpoint_path in checkpoints:
-        update_sheet(test(str(log_directory) + '/' + checkpoint_path), checkpoint_path, log_directory)
+        update_sheet(test(str(log_directory) + '/checkpoints/' + checkpoint_path), checkpoint_path, log_directory)
         
 
 
