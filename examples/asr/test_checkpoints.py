@@ -60,6 +60,8 @@ def main(argv):
     log_directory = sys.argv[1]
 
     checkpoints = [checkpoint for checkpoint in os.listdir(str(log_directory) + '/checkpoints') if checkpoint.split('.')[-1] == "ckpt"]
+    if len(checkpoints) == 0:
+        checkpoints = [checkpoint for checkpoint in os.listdir(str(log_directory) + '/checkpoints') if checkpoint.split('.')[-1] == 'nemo']
 
     for checkpoint_path in checkpoints:
         update_sheet(test(str(log_directory) + '/checkpoints/' + checkpoint_path), checkpoint_path, log_directory)
