@@ -67,4 +67,4 @@ def main(argv):
         update_sheet(test(str(log_directory) + '/checkpoints/' + checkpoint_path), checkpoint_path, log_directory)
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv)
