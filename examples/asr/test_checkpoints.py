@@ -1,6 +1,6 @@
 import os
 import jiwer
-import gsheet
+import gspread
 import sys, getopt
 
 from nemo.collections.asr.models import EncDecCTCModel
