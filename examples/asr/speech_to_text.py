@@ -125,10 +125,8 @@ def update_sheet(scores, checkpoint_path, name):
 
     sheet.update_cell(index+2, 1, str(name))
     sheet.update_cell(index+2, 2, str(checkpoint_path))
-    sheet.update_cell(index+2, 3, scores[0])
-    sheet.update_cell(index+2, 4, scores[1])
-    sheet.update_cell(index+2, 5, scores[2])
-    sheet.update_cell(index+2, 6, scores[3])
+    for i, score in enumerate(scores):
+        sheet.update_cell(index+2, i+2, score)
     print('Sheet updated!')
 
 
